@@ -1,0 +1,3 @@
+socials = [
+    { href = "https://instagram.com/dr_ulker.ramazanli", target = "_blank", icon = "logo-instagram", title = "Instagram" },
+]

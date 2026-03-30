@@ -1,0 +1,52 @@
+baseURL = 'https://example.org/'
+title = 'MedTalks'
+
+theme = "dream"
+defaultContentLanguage = "en"
+languageCode = 'en-us'
+
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+images = ["img/global-background.jpg"]
+
+author = "Ulkar Ramazanli"
+description = "Dentist in Sweden"
+avatar = "img/personal/avatar.jpg"
+headerTitle = "MedTalks"
+motto = "My MOTto"
+
+# footerBottomText = ""
+
+rss = true
+
+utterancesRepo = "mmzeynalli/medtalks"
+email = "ulkerramazanli3@gmail.com"
+
+siteStartYear = 2026
+favicon = "favicon.ico"
+
+# Syntax highlighting
+customSyntaxHighlighting = true
+
+# options
+stickyNav = true
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
