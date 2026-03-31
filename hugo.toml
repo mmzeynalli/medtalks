@@ -21,7 +21,7 @@ author = "Ulkar Ramazanli"
 description = "Dentist in Sweden"
 avatar = "img/personal/avatar.jpg"
 headerTitle = "MedTalks"
-motto = "My MOTto"
+# motto = "My MOTto"
 
 # footerBottomText = ""
 
@@ -31,7 +31,7 @@ utterancesRepo = "mmzeynalli/medtalks"
 email = "ulkerramazanli3@gmail.com"
 
 siteStartYear = 2026
-favicon = "favicon.ico"
+# favicon = "favicon.ico"
 
 # Syntax highlighting
 customSyntaxHighlighting = true
