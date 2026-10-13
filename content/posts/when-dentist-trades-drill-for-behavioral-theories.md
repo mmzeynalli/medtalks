@@ -6,6 +6,8 @@ author: Ulkar Ramazanli
 avatar: /img/personal/avatar.jpg
 authorlink: /
 cover: /img/posts/when-dentist-trades-drill-for-behavioral-theories/hero.jpeg
+images:
+  - /img/posts/when-dentist-trades-drill-for-behavioral-theories/hero.jpeg
 categories:
   - LundUniversity
   - MPH

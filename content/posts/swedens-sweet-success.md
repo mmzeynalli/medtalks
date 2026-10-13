@@ -6,6 +6,8 @@ author: Ulkar Ramazanli
 avatar: /img/personal/avatar.jpg
 authorlink: /
 cover: /img/posts/swedens-sweet-success/hero.png
+images:
+  - /img/posts/swedens-sweet-success/og.jpg
 categories:
   - LundUniversity
   - MPH
