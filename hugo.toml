@@ -30,7 +30,7 @@ rss = true
 utterancesRepo = "mmzeynalli/medtalks"
 
 # GoatCounter analytics (site code = your GoatCounter subdomain)
-goatcounter = "mmzeynalli"
+goatcounter = "medtalks"
 email = "ulkerramazanli3@gmail.com"
 
 siteStartYear = 2026
